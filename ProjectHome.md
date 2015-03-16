@@ -1,0 +1,1 @@
+This site host the nightly version of Simplicity for XBMC.
